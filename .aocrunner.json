@@ -67,16 +67,16 @@
     },
     {
       "part1": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "HNSNMTLHQ",
         "attempts": [],
-        "time": null
+        "time": 1.269682
       },
       "part2": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "RNLFDJMCT",
         "attempts": [],
-        "time": null
+        "time": 1.809735
       }
     },
     {
